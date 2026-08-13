@@ -71,6 +71,7 @@ A computer vision project exploring real-time sign language recognition.
 
 ---
 
+
 ## 📚 Currently Learning
 
 - Artificial Intelligence & Machine Learning
@@ -94,6 +95,17 @@ practical applications.
 GitHub: [@Aditya090908](https://github.com/Aditya090908)
 - Email: adityatechno526@gmail.com
 - Instagram - https://www.instagram.com/adityapathak_0909/
+
+  ---
+
+## 📥 Download
+
+### BrainDump v1.0.0
+
+[![Download APK](https://img.shields.io/badge/Download-BrainDump%20v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Aditya090908/BrainDump/releases/latest)
+
+> Download the latest Android APK from GitHub Releases.
+  
 
 
 
