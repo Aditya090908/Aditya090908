@@ -93,6 +93,7 @@ practical applications.
 ## 📫 Connect With Me
 GitHub: [@Aditya090908](https://github.com/Aditya090908)
 - Email: adityatechno526@gmail.com
+- Instagram - https://www.instagram.com/adityapathak_0909/
 
 
 
