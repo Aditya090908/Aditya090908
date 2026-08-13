@@ -93,9 +93,7 @@ practical applications.
 ## 📫 Connect With Me
 GitHub: [@Aditya090908](https://github.com/Aditya090908)
 - Email: adityatechno526@gmail.com
-- Instagram - adityapathak_0909
 
 
-- GitHub: [@Aditya090908](https://github.com/Aditya090908)
-- LinkedIn: Add your LinkedIn profile here
-- Email: adityatechno526@gmail.com
+
+
