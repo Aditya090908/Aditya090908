@@ -4,7 +4,7 @@ set -euo pipefail
 cd /workspace
 
 echo "==> Checking external links in README.md"
-markdown-link-check README.md
+markdown-link-check -c .cursor/markdown-link-check-config.json README.md
 
 echo "==> Running markdownlint on README.md"
 markdownlint README.md
