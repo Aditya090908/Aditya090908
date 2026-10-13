@@ -1,112 +1,39 @@
-# Hi, I'm Aditya Kumar 👋
+# Hey, I'm Aditya Kumar 👋
 
-### BCA AI/ML Student | Android Developer | AI/ML Enthusiast
+### BCA AI & ML Student | Software Developer | AI Product Builder
 
-I'm a BCA AI/ML student interested in building practical applications
-using software development, artificial intelligence and machine learning.
+I build practical applications that solve real-world problems, from AI-powered learning tools to Android productivity apps and web applications.
 
-I enjoy turning ideas into working projects and continuously exploring
-new technologies in AI, Android and software development.
+🎓 Pursuing BCA in Artificial Intelligence & Machine Learning at BIT Mesra, Patna campus.
 
----
+🔭 **Currently building:** SolveLens — an AI-powered math-solving application using Flutter, FastAPI, and Google Gemini.
 
-## 🚀 What I'm Working On
+🌱 **Currently exploring:** Generative AI, backend development, Android development, and computer vision.
 
-🧠 **Brain Dump**  
-An Android application for capturing thoughts, organizing them and
-creating smart reminders.
+🏆 **Achievement:** Winner of the AlgoArena Hackathon (Social Good theme).
 
-🤖 **AI & Edge AI**  
-Currently exploring on-device AI, local LLMs and AI-powered applications.
+### 🚀 Featured Projects
 
-📱 **Android Development**  
-Building applications using Kotlin, Jetpack Compose and Room Database.
+- **SolveLens** — AI-powered math-solving application.
+- **BrainDump** — Android productivity app for capturing and organizing thoughts.
+- **SymTracker** — Web application for symptom logging and severity tracking.
+- **Sign Language Recognition** — Computer-vision project using MediaPipe, TensorFlow, and Flask.
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+**Languages:** Python, C++, Java, Kotlin, JavaScript  
+**Frontend:** HTML, CSS, Flutter  
+**Backend:** FastAPI, Flask, REST APIs  
+**AI/ML:** Google Gemini, TensorFlow, MediaPipe  
+**Tools:** Git, GitHub, Android Studio, Linux
 
-### Languages
-- Kotlin
-- Python
-- C++
-- JavaScript
-- HTML / CSS
+### 🏆 Achievements
 
-### AI / ML
-- TensorFlow
-- MediaPipe
-- Machine Learning
-- Computer Vision
-- Edge AI
-- Local LLMs
+- Winner — AlgoArena Hackathon, Social Good theme.
+- Participant — Lovable × ROAM International Hackathon.
+- Participant — CS Base and The AI Collective hackathons/community events.
+- Completed the 100 Days of Code challenge.
 
-### Development
-- Android
-- Jetpack Compose
-- Flask
-- Git
-- GitHub
-- Linux
+### 🤝 Let's Connect
 
----
-
-## 📌 Featured Projects
-
-### 🧠 Brain Dump
-AI-focused Android application for capturing thoughts, managing them
-and creating reminders.
-
-**Tech:** Kotlin · Jetpack Compose · Room Database · Android
-
-### 🩺 SymTracker
-A web application for tracking and managing symptoms.
-
-**Tech:** HTML · CSS · JavaScript
-
-### 🤟 Sign Language Recognition
-A computer vision project exploring real-time sign language recognition.
-
-**Tech:** Python · MediaPipe · Flask · TensorFlow
-
----
-
-
-## 📚 Currently Learning
-
-- Artificial Intelligence & Machine Learning
-- Edge AI
-- Local LLMs
-- Android Development
-- Computer Vision
-- Backend Development
-
----
-
-## 🎯 Goals
-
-Build useful software, strengthen my AI/ML skills and work on
-real-world projects that combine artificial intelligence with
-practical applications.
-
----
-
-## 📫 Connect With Me
-GitHub: [@Aditya090908](https://github.com/Aditya090908)
-- Email: adityatechno526@gmail.com
-- Instagram - https://www.instagram.com/adityapathak_0909/
-
-  ---
-
-## 📥 Download
-
-### BrainDump v1.0.0
-
-[![Download APK](https://img.shields.io/badge/Download-BrainDump%20v1.0.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/Aditya090908/BrainDump/releases/latest)
-
-> Download the latest Android APK from GitHub Releases.
-  
-
-
-
-
+I'm interested in building useful software, exploring AI, and collaborating on meaningful projects.
