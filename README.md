@@ -39,18 +39,18 @@
       <p><strong>Focus:</strong> Android development, thoughtful UX, and on-device data storage.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Aditya090908/pulse-19">PULSE 19</a></h3>
-      <p>An interactive epidemiological dashboard with maps, charts, country-level insights, and data exports.</p>
-      <p><sub>React · Vite · Tailwind CSS · JavaScript</sub></p>
-      <p><strong>Note:</strong> Uses a local simulated dataset — it is a demo dashboard, not a live tracker.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <h3>➗ <a href="https://github.com/Aditya090908/SolveLens">SolveLens</a></h3>
       <p>An AI-powered mathematics-solving app exploring a Flutter client and a Python API backend.</p>
       <p><sub>Flutter · Dart · Python · FastAPI · Gemini</sub></p>
       <p><strong>Status:</strong> Development currently on hold while I work through some issues. I'll return to it later.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📊 <a href="https://github.com/Aditya090908/pulse-19">PULSE 19</a></h3>
+      <p>An interactive epidemiological dashboard with maps, charts, country-level insights, and data exports.</p>
+      <p><sub>React · Vite · Tailwind CSS · JavaScript</sub></p>
+      <p><strong>Note:</strong> Uses a local simulated dataset — it is a demo dashboard, not a live tracker.</p>
     </td>
   </tr>
 </table>
