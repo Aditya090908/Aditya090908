@@ -4,83 +4,60 @@
 </p>
 
 <h1 align="center">Hey, I'm Aditya 👋</h1>
+<p align="center"><strong>BCA (Hons.) AI &amp; ML Student · Software Developer · Product Builder</strong></p>
+<p align="center">I build practical software projects across AI-powered applications, Android development, backend systems, and interactive web experiences.</p>
 
 <p align="center">
-  <strong>AI &amp; ML Student · App Developer · Builder</strong>
-</p>
-
-<p align="center">
-  I enjoy turning ideas into useful products — from Android apps to AI-powered tools and interactive web experiences.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aditya090908?tab=repositories">Projects</a>
-  &nbsp;·&nbsp;
+  <a href="https://github.com/Aditya090908?tab=repositories">Projects</a> ·
   <a href="https://github.com/Aditya090908">GitHub</a>
 </p>
 
 ---
 
-## A little about me
+## About
 
-- 🎓 BCA student specializing in Artificial Intelligence &amp; Machine Learning at BIT Mesra, Patna campus.
-- 🛠️ Interested in building practical products across Android, Flutter, backend development, and AI.
-- 🌱 Currently strengthening my skills in software engineering, generative AI, and computer vision.
+- 🎓 BCA (Honours) student specialising in Artificial Intelligence &amp; Machine Learning at BIT Mesra, Off-Campus Centre, Patna.
+- 💡 Interested in applied AI/ML, software engineering, computer vision, NLP, mobile development, and research-led product development.
+- 🛠️ I enjoy taking ideas from problem definition through implementation, API integration, testing, and documentation.
 - 🏆 AlgoArena Hackathon winner — Social Good theme.
 
-## Selected work
+## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Aditya090908/BrainDump">BrainDump</a></h3>
-      <p>A local-first Android app for capturing thoughts, organizing ideas, and setting reminders.</p>
-      <p><sub>Kotlin · Jetpack Compose · Room</sub></p>
-      <p><strong>Focus:</strong> Android development, thoughtful UX, and on-device data storage.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>➗ <a href="https://github.com/Aditya090908/SolveLens">SolveLens</a></h3>
-      <p>An AI-powered mathematics-solving app exploring a Flutter client and a Python API backend.</p>
-      <p><sub>Flutter · Dart · Python · FastAPI · Gemini</sub></p>
-      <p><strong>Status:</strong> Development currently on hold while I work through some issues. I'll return to it later.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📊 <a href="https://github.com/Aditya090908/pulse-19">PULSE 19</a></h3>
-      <p>An interactive epidemiological dashboard with maps, charts, country-level insights, and data exports.</p>
-      <p><sub>React · Vite · Tailwind CSS · JavaScript</sub></p>
-      <p><strong>Note:</strong> Uses a local simulated dataset — it is a demo dashboard, not a live tracker.</p>
-    </td>
-  </tr>
-</table>
+### ➗ [SolveLens](https://github.com/Aditya090908/SolveLens)
+An AI-powered mathematics companion with a Flutter client and a Python FastAPI backend. The implemented text-question workflow sends questions to a server-side Google Gemini integration and renders generated explanations with mathematical formatting.
 
-## Tools I work with
+**Stack:** Flutter · Dart · Python · FastAPI · Google Gemini  
+**Status:** Active development; text-based solving flow implemented. Camera, gallery, voice input, authentication, and persistent chat history are future work.
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+### 🧠 [BrainDump](https://github.com/Aditya090908/BrainDump)
+A local-first Android app for capturing thoughts, organising ideas, and setting reminders, built around on-device data storage.
 
-## Highlights
+**Stack:** Kotlin · Jetpack Compose · Room
 
-- 🥇 Winner — AlgoArena Hackathon (Social Good).
-- 🌍 Participant — Lovable × ROAM International Hackathon.
-- 💻 Completed the 100 Days of Code challenge.
+### 📊 [PULSE 19](https://github.com/Aditya090908/pulse-19)
+A browser-based epidemiological dashboard concept with an interactive map, country-level views, historical charts, filters, CSV export, and print-friendly reporting.
 
-## What I like exploring
+**Stack:** React · Vite · Tailwind CSS · JavaScript  
+**Data note:** Uses a bundled simulated demonstration dataset; it is not a live public-health tracker.
 
-AI-powered applications · Android development · Backend engineering · Computer vision · Open source
+## Technical Toolkit
+
+- **Languages:** Python, C++, Kotlin, Dart, JavaScript
+- **Mobile & UI:** Flutter, Jetpack Compose, React
+- **Backend & APIs:** FastAPI, Python, REST APIs
+- **AI & ML interests:** Generative AI, machine learning, computer vision, NLP
+- **Tools:** Git, GitHub, Android Studio
+
+## Achievements
+
+- 🥇 Winner — AlgoArena Hackathon (Social Good theme)
+- 🌍 Participant — Lovable × ROAM International Hackathon
+- 💻 Completed — 100 Days of Code challenge
+
+## Currently Interested In
+
+Research and internship opportunities in applied AI/ML, computer vision, NLP, data science, and software engineering — especially projects where I can contribute through implementation, experimentation, and careful documentation.
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+<p align="center"><i>Always learning. Always building.</i></p>
